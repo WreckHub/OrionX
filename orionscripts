@@ -23,5 +23,5 @@ _G.Tip4 = "SCRIPT IS CURRENTLY RELOADING" --// Gives You Tips On The UI
 _G.Tip5 = "WAIT TILL ITS FULLY RELOADED [THX FOR BEING PATIENT]" --// Gives You Tips On The UI
 
 --[[ Script ]]
-loadstring(game:HttpGet("https://arkhalislua.github.io/Lua/Arkhalis.lua"))()
+loadstring(game:HttpGet("https://paste.xyzo.space/nxll/Arkhalis.lua"))()
 
